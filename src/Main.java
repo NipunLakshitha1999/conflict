@@ -9,13 +9,7 @@ public class Main {
     //test
     }
 
-    public void test8(){
-    //test
-    }
-    
-    public void test7(){
-    //test
-    }
+   
     
     public static void main(String[] args) {
        //test
