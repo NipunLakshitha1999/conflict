@@ -5,7 +5,9 @@
 
 public class Main {
 
-    public void test3(){}
+    public void test1(){}
+
+    public void tes2(){}
 
     public static void main(String[] args) {
         System.out.println();
