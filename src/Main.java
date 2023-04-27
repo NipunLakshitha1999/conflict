@@ -5,9 +5,12 @@
 
 public class Main {
 
-    public void test3(){}
-
     public void tes3(){}
+
+    public void tes4(){}
+
+    public void tes5(){}
+
 
     public static void main(String[] args) {
         System.out.println();
