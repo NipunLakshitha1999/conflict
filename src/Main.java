@@ -5,13 +5,19 @@
 
 public class Main {
 
-    public void test3(){}
+    public void test9(){
+    //test
+    }
 
-    public void test3(){}
+    public void test8(){
+    //test
+    }
     
-    public void test3(){}
+    public void test7(){
+    //test
+    }
     
     public static void main(String[] args) {
-       
+       //test
     }
 }
