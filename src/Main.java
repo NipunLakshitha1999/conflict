@@ -5,6 +5,10 @@
 
 public class Main {
 
+    public void test1(){}
+
+    public void tes2(){}
+
     public static void main(String[] args) {
         System.out.println();
         System.out.println();
